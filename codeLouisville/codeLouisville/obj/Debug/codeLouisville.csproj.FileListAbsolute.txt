@@ -1,0 +1,10 @@
+C:\Users\cjones1\source\repos\codeLouisville\codeLouisville\obj\Debug\codeLouisville.csprojAssemblyReference.cache
+C:\Users\cjones1\source\repos\codeLouisville\codeLouisville\obj\Debug\codeLouisville.csproj.CoreCompileInputs.cache
+C:\Users\cjones1\source\repos\codeLouisville\codeLouisville\bin\Debug\codeLouisville.exe.config
+C:\Users\cjones1\source\repos\codeLouisville\codeLouisville\bin\Debug\codeLouisville.exe
+C:\Users\cjones1\source\repos\codeLouisville\codeLouisville\bin\Debug\codeLouisville.pdb
+C:\Users\cjones1\source\repos\codeLouisville\codeLouisville\obj\Debug\codeLouisville.exe
+C:\Users\cjones1\source\repos\codeLouisville\codeLouisville\obj\Debug\codeLouisville.pdb
+C:\Users\cjones1\source\repos\codeLouisville\codeLouisville\bin\Debug\CsvHelper.dll
+C:\Users\cjones1\source\repos\codeLouisville\codeLouisville\bin\Debug\CsvHelper.xml
+C:\Users\cjones1\source\repos\codeLouisville\codeLouisville\obj\Debug\codeLouisville.csproj.CopyComplete
