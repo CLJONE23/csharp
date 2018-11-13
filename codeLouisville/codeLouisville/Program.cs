@@ -23,7 +23,7 @@ namespace codeLouisville
             List<Numbers> numbers;
 
             // csv reader needs a stream, so declare that one first then pass that into the csv reader
-            using (var streamReader = new StreamReader("data.csv"))
+            using (var streamReader = new StreamReader(@"..\..\data.csv"))
             using (var reader = new CsvReader(streamReader))
             {
                 // Register the custom score map
