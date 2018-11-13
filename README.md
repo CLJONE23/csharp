@@ -4,6 +4,7 @@ Q. What is csharp?
 A. It's my completely original (sarcasm) name for a lottery guessing game using c# and .net...
 
 Q. What does csharp do?
+
 A. csharp can do three things: 
     (1) it can export a list of all Mega Millions drawings since 2002
     (2) it can export a subset of drawings data from a specific date forward
