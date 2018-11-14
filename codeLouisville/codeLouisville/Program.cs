@@ -37,7 +37,7 @@ namespace codeLouisville
 
             // Create the menu string
             StringBuilder menu = new StringBuilder();
-            menu.Append("\nMegaBall Lottery Drawings since 1992\n")
+            menu.Append("\nMegaBall Lottery Drawings since 2002\n")
                 .Append("--------------------------------------")
                 .Append("\nMenu\n")
                 .Append("--------------------------------------")
